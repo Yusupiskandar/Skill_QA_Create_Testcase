@@ -1,4 +1,4 @@
-# 📦 Paxel QA Test Case & PRD Generator Agent
+# 📦 QA Test Case & PRD Generator Agent
 
 Repositori ini menyediakan **Skill & Automation Tool** untuk tim Quality Assurance (QA) dalam menganalisis dokumen Product Requirement Document (PRD) PDF, merumuskan skenario pengujian komprehensif, men-generate test case CSV terstandarisasi, dan meng-import subtask ke **ClickUp** secara otomatis.
 
