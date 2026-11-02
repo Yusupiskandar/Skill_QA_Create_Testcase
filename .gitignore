@@ -1,0 +1,30 @@
+# ===============================
+# Paxel QA Test Case .gitignore
+# ===============================
+
+# Kredensial & Secrets (Jangan di-commit ke Git!)
+.env
+*.env
+Click Subtask/.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ClickUp Execution Logs
+clickup_result_*.csv
+
+# OS Generated Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
